@@ -1,3 +1,9 @@
+# Read before using this repository
+This is a fork of the original project for the community-simulator package. If you are not sure why you are here, you should be using the [original package](https://github.com/Emergent-Behaviors-in-Biology/community-simulator).
+
+
+
+
 # community-simulator
 
 ## Introduction
